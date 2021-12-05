@@ -19,10 +19,10 @@ Normalmente, o visitante inscreve-se na página de captura passando seu email e 
 
 ## Features
 
-  ✔️ Adicionar um ícone como favicon no Head do HTML
-  ✔️ Criar um formulário HTML
-  ✔️ Fazer uso correto das tags semânticas do HTML 5
-  ✔️ Utilizar Media Queries do CSS para tornar a página responsiva.
+  ✔️ Adicionar um ícone como favicon no Head do HTML <br>
+  ✔️ Criar um formulário HTML <br>
+  ✔️ Fazer uso correto das tags semânticas do HTML 5 <br>
+  ✔️ Utilizar Media Queries do CSS para tornar a página responsiva. <br>
   
     
 
