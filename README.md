@@ -28,6 +28,6 @@ Normalmente, o visitante inscreve-se na página de captura passando seu email e 
 
 ## Preview
 
-![página-captura](https://user-images.githubusercontent.com/68918326/144758897-e45e1887-c18c-4163-8602-3e30ad83ae69.gif)
+![página-captura2](https://user-images.githubusercontent.com/68918326/144759012-33a2a313-a818-448b-b591-2567ceb45050.gif)
 
-![projeto](https://user-images.githubusercontent.com/68918326/144758736-5df3e4e7-d221-40ba-add8-def0019cbd05.PNG)
+![página-captura](https://user-images.githubusercontent.com/68918326/144758897-e45e1887-c18c-4163-8602-3e30ad83ae69.gif)
