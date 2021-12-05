@@ -27,5 +27,4 @@ Normalmente, o visitante inscreve-se na página de captura passando seu email e 
     
 
 ## Preview
-
-![projeto](https://user-images.githubusercontent.com/68918326/144758494-d13406e3-34ef-4e4e-b7d9-ee9408709342.PNG)
+![projeto](https://user-images.githubusercontent.com/68918326/144758736-5df3e4e7-d221-40ba-add8-def0019cbd05.PNG)
